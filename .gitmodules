@@ -1,0 +1,3 @@
+[submodule "libphutil"]
+	path = libphutil
+	url = https://secure.phabricator.com/diffusion/PHU/libphutil.git
